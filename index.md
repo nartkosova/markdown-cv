@@ -6,7 +6,7 @@ title: Nart Kosova
 Student
 
 <div id="webaddress">
-<a href="nartkosova21@gmail.com">nartkosova21@gmail.com</a> <br>
+<a>nartkosova21@gmail.com</a> <br>
 <a>049 882 661</a>
 </div>
 
