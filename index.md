@@ -6,8 +6,8 @@ title: Nart Kosova
 Student
 
 <div id="webaddress">
-<a href="nartkosova21@gmail.com">nartkosova21@gmail.com</a> </br>
-<a >049 882 661</a>
+<a href="nartkosova21@gmail.com">nartkosova21@gmail.com</a> <br>
+<a>049 882 661</a>
 </div>
 
 ## About Me
@@ -29,12 +29,12 @@ Figma, Blender, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects.
 
 ### Currently Completing
 
-Full Stack Open course organised by the University of Helsinki: https://fullstackopen.com/en/
+Full Stack Open course organised by the University of Helsinki: <a href="https://fullstackopen.com/en/">Full Stack Open</a>
 
 ### Projects
 
 Figma: <a href="https://www.figma.com/proto/JN2WLsvZqQYVkyTrEx2MvM/Team-21-Project?type=design&node-id=1-3&t=EVEr7mLhYvpLu4CW-0&scaling=scale-down&page-id=0%3A1">Portfolio Design</a>
-<a href="">
+<a href="https://www.figma.com/file/oS0gG0uCsLvKrCS291aQb5/Self-portfolio?type=design&mode=design&t=pB0mlXkvKQMDSQtZ-1">Travel Blog</a>
 
 ### Interests
 
