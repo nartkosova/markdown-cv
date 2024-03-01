@@ -21,7 +21,7 @@ Java, JavaScript, HTML, CSS, Php.
 
 ### Interests
 
-Design, Programming
+Design, Programming.
 
 
 ## Education
