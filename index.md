@@ -16,11 +16,15 @@ I'm Nart Kosova, a student residing in Finland, studying for a major in Software
 
 ## Currently
 
-Pursuing a Bachelor's degree in Business Administration with a focus on Computer Applications at HAMK.
+Pursuing a Bachelor's degree in Business Administration with a focus on Computer Applications at HAMK Häme University of Applied Sciences.
 
 ### Currently Learning
 
-Java, JavaScript, HTML5, CSS3, Php, Python, WordPress, MySQL, Scrum, Kanban, Jira, Confluence, Planner and Full Stack Open course organised by the University of Helsinki
+Java, JavaScript, HTML5, CSS3, Php, Python, WordPress, MySQL, and Full Stack Open course organised by the University of Helsinki
+
+### Project Skills
+
+Scrum, Kanban, Jira, Confluence, Planner 
 
 ### Skills
 
