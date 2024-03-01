@@ -3,31 +3,39 @@ layout: cv
 title: Nart Kosova
 ---
 # Nart Kosova
-Student.
+Student
 
 <div id="webaddress">
 <a href="nartkosova21@gmail.com">nartkosova21@gmail.com</a>
+<a >049 882 661</a>
 </div>
 
+## About Me
+
+I am Nart Kosova
 
 ## Currently
 
-Studying for my degree in batchelor's of business adminstration in computer applications at HAMK.
+Pursuing a Bachelor's degree in Business Administration with a focus on Computer Applications at HAMK.
 
-### Specialized in
+### Currently Learning
 
-Java, JavaScript, HTML, CSS, Php.
+Java, JavaScript, HTML, CSS, Php, Python, WordPress.
 
+### Projects
 
 ### Interests
 
-Design, Programming.
+Programming, Gym, Full Stack Development, 3D Design, Editing.
 
 
 ## Education
 
+`2011-2020`
+__SH.F.M.U Dardania__
+
 `2020-2023`
-__Xhevdet Doda__
+__SXhevdet Doda__
 
 `2023-2026`
 __HAMK University of Applied Sciences__
