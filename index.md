@@ -20,21 +20,15 @@ Pursuing a Bachelor's degree in Business Administration with a focus on Computer
 
 ### Currently Learning
 
-Java, JavaScript, HTML5, CSS3, Php, Python, WordPress, MySQL, Scrum, Kanban, Jira, Confluence, Planner and Full Stack Open course organised by the University of Helsinki: <a href="https://fullstackopen.com/en/">Full Stack Open</a>.
+Java, JavaScript, HTML5, CSS3, Php, Python, WordPress, MySQL, Scrum, Kanban, Jira, Confluence, Planner and Full Stack Open course organised by the University of Helsinki
 
 ### Skills
 
 Figma, Blender, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects.
 
-### Projects
-
-Figma: <a href="https://www.figma.com/proto/JN2WLsvZqQYVkyTrEx2MvM/Team-21-Project?type=design&node-id=1-3&t=EVEr7mLhYvpLu4CW-0&scaling=scale-down&page-id=0%3A1">Portfolio Design</a> <br>
-<a href="https://www.figma.com/file/oS0gG0uCsLvKrCS291aQb5/Self-portfolio?type=design&mode=design&t=pB0mlXkvKQMDSQtZ-1">Travel Blog</a>
-
 ### Interests
 
 Programming, Gym, Full Stack Development, 3D Design, Editing.
-
 
 ## Education
 
