@@ -12,8 +12,7 @@ Student
 
 ## About Me
 
-I'm Nart Kosova, a student residing in Finland, studying for a major in Software Development. I have a lot of passion, dedication, and strong work ethic, I excel in collaborative environments, especially when working with international teams. 
-I have experience with people from different cultures and background, which has helped me become a better team player. I approach tasks with enthusiasm and am committed to achieving our goals together.
+I'm Nart Kosova, a student residing in Finland, studying for a major in Software Development. I have a lot of passion, dedication, and strong work ethic, I excel in collaborative environments and I have experience with people from different cultures and backgrounds, which has helped me become a better team player. I approach tasks with enthusiasm and am committed to achieving our goals together.
 
 ## Currently
 
@@ -21,19 +20,15 @@ Pursuing a Bachelor's degree in Business Administration with a focus on Computer
 
 ### Currently Learning
 
-Java, JavaScript, HTML5, CSS3, Php, Python, WordPress, MySQL, Scrum, Kanban, Jira, Confluence, Planner.
+Java, JavaScript, HTML5, CSS3, Php, Python, WordPress, MySQL, Scrum, Kanban, Jira, Confluence, Planner and Full Stack Open course organised by the University of Helsinki: <a href="https://fullstackopen.com/en/">Full Stack Open</a>.
 
 ### Skills
 
 Figma, Blender, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects.
 
-### Currently Completing
-
-Full Stack Open course organised by the University of Helsinki: <a href="https://fullstackopen.com/en/">Full Stack Open</a>
-
 ### Projects
 
-Figma: <a href="https://www.figma.com/proto/JN2WLsvZqQYVkyTrEx2MvM/Team-21-Project?type=design&node-id=1-3&t=EVEr7mLhYvpLu4CW-0&scaling=scale-down&page-id=0%3A1">Portfolio Design</a>
+Figma: <a href="https://www.figma.com/proto/JN2WLsvZqQYVkyTrEx2MvM/Team-21-Project?type=design&node-id=1-3&t=EVEr7mLhYvpLu4CW-0&scaling=scale-down&page-id=0%3A1">Portfolio Design</a> <br>
 <a href="https://www.figma.com/file/oS0gG0uCsLvKrCS291aQb5/Self-portfolio?type=design&mode=design&t=pB0mlXkvKQMDSQtZ-1">Travel Blog</a>
 
 ### Interests
