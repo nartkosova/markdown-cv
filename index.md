@@ -6,13 +6,14 @@ title: Nart Kosova
 Student
 
 <div id="webaddress">
-<a href="nartkosova21@gmail.com">nartkosova21@gmail.com</a>
+<a href="nartkosova21@gmail.com">nartkosova21@gmail.com</a> </br>
 <a >049 882 661</a>
 </div>
 
 ## About Me
 
-My name is Nart Kosova, and I am a dedicated student residing in Finland. Passionate and committed, I thrive in collaborative environments where teamwork is valued. With a strong work ethic, I approach challenges with determination and enthusiasm. I am deeply interested in exploring new opportunities and continuously expanding my knowledge and skills.
+I'm Nart Kosova, a student residing in Finland, studying for a major in Software Development. I have a lot of passion, dedication, and strong work ethic, I excel in collaborative environments, especially when working with international teams. 
+I have experience with people from different cultures and background, which has helped me become a better team player. I approach tasks with enthusiasm and am committed to achieving our goals together.
 
 ## Currently
 
@@ -20,9 +21,20 @@ Pursuing a Bachelor's degree in Business Administration with a focus on Computer
 
 ### Currently Learning
 
-Java, JavaScript, HTML, CSS, Php, Python, WordPress.
+Java, JavaScript, HTML5, CSS3, Php, Python, WordPress, MySQL, Scrum, Kanban, Jira, Confluence, Planner.
+
+### Skills
+
+Figma, Blender, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects.
+
+### Currently Completing
+
+Full Stack Open course organised by the University of Helsinki: https://fullstackopen.com/en/
 
 ### Projects
+
+Figma: <a href="https://www.figma.com/proto/JN2WLsvZqQYVkyTrEx2MvM/Team-21-Project?type=design&node-id=1-3&t=EVEr7mLhYvpLu4CW-0&scaling=scale-down&page-id=0%3A1">Portfolio Design</a>
+<a href="">
 
 ### Interests
 
@@ -35,7 +47,7 @@ Programming, Gym, Full Stack Development, 3D Design, Editing.
 __SH.F.M.U Dardania__
 
 `2020-2023`
-__SXhevdet Doda__
+__Xhevdet Doda__
 
 `2023-2026`
 __HAMK University of Applied Sciences__
