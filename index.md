@@ -12,7 +12,7 @@ Student
 
 ## About Me
 
-I am Nart Kosova
+My name is Nart Kosova, and I am a dedicated student residing in Finland. Passionate and committed, I thrive in collaborative environments where teamwork is valued. With a strong work ethic, I approach challenges with determination and enthusiasm. I am deeply interested in exploring new opportunities and continuously expanding my knowledge and skills.
 
 ## Currently
 
