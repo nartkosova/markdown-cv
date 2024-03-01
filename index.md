@@ -3,7 +3,7 @@ layout: cv
 title: Nart Kosova
 ---
 # Nart Kosova
-Student
+Computer Applications Student
 
 <div id="webaddress">
 <a>nartkosova21@gmail.com</a> <br>
@@ -20,15 +20,7 @@ Pursuing a Bachelor's degree in Business Administration with a focus on Computer
 
 ### Skills & Currently Learning
 
-Programming: Java, JavaScript, HTML5, CSS3, Php, Python, WordPress (Creating themes & Templates),GitHub, MySQL, and Full Stack Open course organised by the University of Helsinki <br>Design: Figma, Blender, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects.
-
-### Project Skills
-
-Scrum, Kanban, Jira, Confluence, Planner 
-
-### Skills
-
-
+Programming: Java, JavaScript, HTML5, CSS3, Php, Python, WordPress (Creating themes & Templates),GitHub, MySQL, and Full Stack Open course organised by the University of Helsinki. <br>Project Managment: Scrum, Kanban, Jira, Confluence, Planner.  <br>Design: Figma, Blender, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects.
 
 ### Interests
 
