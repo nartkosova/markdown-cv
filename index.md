@@ -20,7 +20,11 @@ Pursuing a Bachelor's degree in Business Administration with a focus on Computer
 
 ### Skills & Currently Learning
 
-Programming: Java, JavaScript, HTML5, CSS3, Php, Python, WordPress (Creating themes & Templates), GitHub, MySQL, and Full Stack Open course organised by the University of Helsinki. <br>Project Managment & Tools: Scrum, Kanban, Jira, Confluence, Planner.  <br>Design: Figma, Blender, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects.
+Programming: Java, JavaScript, HTML5, CSS3, Php, Python, WordPress (Creating themes & Templates), GitHub, MySQL. <br>Project Managment & Tools: Scrum, Kanban, Jira, Confluence, Planner.  <br>Design: Figma, Blender, Adobe Photoshop, Adobe Premiere Pro, Adobe After Effects.
+
+### Additional Courses
+
+Full Stack Open course organised by the University of Helsinki.
 
 ### Interests
 
@@ -28,7 +32,7 @@ Programming, Gym, Full Stack Development, 3D Design, Editing, UI Design.
 
 ### Languages
 
-Albanian <br> English
+Albanian (Native) <br> English (Professional working proficiecy)
 
 ## Education
 
